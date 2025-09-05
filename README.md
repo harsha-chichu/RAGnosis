@@ -1,5 +1,9 @@
 # RAGnosis
 
+# Screenshot
+<img width="919" height="687" alt="image" src="https://github.com/user-attachments/assets/79f033b3-57b3-44a6-8718-3c930683930a" />
+
+
 # How to run?
 ### STEPS:
 
